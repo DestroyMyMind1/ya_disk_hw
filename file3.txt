@@ -1,0 +1,12 @@
+HR
+3
+Igor | Nikolaev | 22.12.1988 | Moscow
+Olga | Protasova | 31.02.1995 | Omsk
+Inga | Bulina | 11.05.2000 | Novosibirsk
+
+IT
+4
+Alex | Nikolaev | 22.12.1988 | Moscow
+Den | Protasova | 31.02.1995 | Omsk
+Vova | Bulina | 11.05.2000 | Novosibirsk
+Alexey | Protasova | 31.02.1995 | Omsk
